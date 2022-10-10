@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-09T10:24:56 IST" name="Suite" finished-at="2022-10-09T10:25:01 IST" duration-ms="4914">
+  <suite started-at="2022-10-10T15:56:57 IST" name="Suite" finished-at="2022-10-10T15:57:03 IST" duration-ms="5710">
     <groups>
     </groups>
-    <test started-at="2022-10-09T10:24:56 IST" name="Test1" finished-at="2022-10-09T10:24:59 IST" duration-ms="2772">
+    <test started-at="2022-10-10T15:56:57 IST" name="Test1" finished-at="2022-10-10T15:57:01 IST" duration-ms="3520">
       <class name="com.cicd.test1">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.cicd.test1@7722c3c3]" started-at="2022-10-09T10:24:56 IST" name="setup" finished-at="2022-10-09T10:24:59 IST" duration-ms="2604" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cicd.test1@28eaa59a]" started-at="2022-10-10T15:56:57 IST" name="setup" finished-at="2022-10-10T15:57:00 IST" duration-ms="3000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test1()[pri:0, instance:com.cicd.test1@7722c3c3]" started-at="2022-10-09T10:24:59 IST" name="test1" finished-at="2022-10-09T10:24:59 IST" duration-ms="7" status="PASS">
+        <test-method signature="test1()[pri:0, instance:com.cicd.test1@28eaa59a]" started-at="2022-10-10T15:57:00 IST" name="test1" finished-at="2022-10-10T15:57:01 IST" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cicd.test1@7722c3c3]" started-at="2022-10-09T10:24:59 IST" name="teardown" finished-at="2022-10-09T10:24:59 IST" duration-ms="133" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cicd.test1@28eaa59a]" started-at="2022-10-10T15:57:01 IST" name="teardown" finished-at="2022-10-10T15:57:01 IST" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.cicd.test1 -->
     </test> <!-- Test1 -->
-    <test started-at="2022-10-09T10:24:59 IST" name="Test2" finished-at="2022-10-09T10:25:01 IST" duration-ms="2124">
+    <test started-at="2022-10-10T15:57:01 IST" name="Test2" finished-at="2022-10-10T15:57:03 IST" duration-ms="2171">
       <class name="com.cicd.test2">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.cicd.test2@515aebb0]" started-at="2022-10-09T10:24:59 IST" name="setup" finished-at="2022-10-09T10:25:01 IST" duration-ms="1967" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cicd.test2@12468a38]" started-at="2022-10-10T15:57:01 IST" name="setup" finished-at="2022-10-10T15:57:03 IST" duration-ms="1997" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test2()[pri:0, instance:com.cicd.test2@515aebb0]" started-at="2022-10-09T10:25:01 IST" name="test2" finished-at="2022-10-09T10:25:01 IST" duration-ms="6" status="PASS">
+        <test-method signature="test2()[pri:0, instance:com.cicd.test2@12468a38]" started-at="2022-10-10T15:57:03 IST" name="test2" finished-at="2022-10-10T15:57:03 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cicd.test2@515aebb0]" started-at="2022-10-09T10:25:01 IST" name="teardown" finished-at="2022-10-09T10:25:01 IST" duration-ms="150" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cicd.test2@12468a38]" started-at="2022-10-10T15:57:03 IST" name="teardown" finished-at="2022-10-10T15:57:03 IST" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
